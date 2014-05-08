@@ -10,7 +10,7 @@ body{
     overflow: hidden;
 }
 .container{
-    width: 258px;
+    width: 256px;
     height: 768px;
     -webkit-perspective: 3000px;
     -webkit-perspective-origin-x: 100%;
